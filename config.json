@@ -1,0 +1,12 @@
+{
+  "5": {
+    "contract": {
+      "address": "0xe1e5be6f2b01648e3d10d0ea1f409e78b89fd23c"
+    }
+  },
+  "31337": {
+    "contract": {
+      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    }
+  }
+}
